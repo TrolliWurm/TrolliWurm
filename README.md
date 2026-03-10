@@ -44,7 +44,7 @@
 <h2 align="left">Tools and Skillset <img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,au,aws,bash,blender,cloudflare,codepen,css,discord,docker,figma,html,js,npm,php,react,svelte,ubuntu,unity,vscode,vue&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=lua,ae,atom,au,aws,bash,blender,cloudflare,codepen,css,discord,docker,figma,html,js,npm,php,react,svelte,ubuntu,unity,vscode,vue&perline=8&theme=dark" />
   </a>
 </p>
 
